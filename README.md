@@ -1,2 +1,2 @@
-# Fast-Scroll-Cubit
-## Simple fast-scroll bar using Cubit State Management
+# Fast-filter-Cubit
+## Simple fast-filter bar using Cubit State Management
